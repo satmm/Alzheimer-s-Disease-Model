@@ -1,4 +1,5 @@
----
+
+
 # Alzheimer's Disease Classification System
 
 This project leverages a Convolutional Neural Network (CNN) model, Deep Learning model based on DenseNet-169 architecture, leveraging TensorFlow and Keras framework ,to classify stages of Alzheimer's disease in patients based on a dataset obtained from Kaggle.You can find the dataset here - https://www.kaggle.com/tourist55/alzheimers-dataset-4-class-of-images includes images categorized into four classes related to Alzheimer's disease stages. DenseNet architecture plays a pivotal role in this project by efficiently managing feature reuse through dense connections between layers. Unlike traditional architectures that rely on deep or wide networks, DenseNets enhance parameter efficiency and facilitate better information flow and gradient propagation throughout the network. This feature reuse not only simplifies training but also enhances model regularization, reducing overfitting on smaller datasets. The project integrates this robust architecture into a Flask backend for predictive model deployment and a Next.js frontend for intuitive user interaction and result visualization.
