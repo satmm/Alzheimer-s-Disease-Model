@@ -1,0 +1,17 @@
+# Virtual environment
+.venv/
+env/
+venv/
+
+# Python
+*.pyc
+__pycache__/
+
+# Environment variables
+.env
+
+# Log files
+*.log
+
+# VS Code settings
+.vscode/
